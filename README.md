@@ -80,6 +80,6 @@ If you know how to do this in any other editors or IDEs, please email me the res
 [How to Playlist](https://www.youtube.com/playlist?list=PLxB4x6RkylosAh1of4FnX7-g2fk0MUeyc)<br />
 
 ## Lecture Videos
-[OOP244 - 2201 Play list - TBA]()<br />
+[OOP244 - 2201 Play list - TBA](https://www.youtube.com/playlist?list=PLxB4x6RkylovDjQaolbwqJAlgyN8xog7R)<br />
 [BBB review video - TBA]()<br />
 ## Fardad's Schedule - TBA
