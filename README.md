@@ -10,6 +10,14 @@
 There may be one or more online review sessions for critical topics.<br />
 At the time of the Review Session the following "Join Session" link will be activated <br />
 [Join Session (closed)]() <br />
+## Creating alias (shortcuts) for submissin command and compilation command:
+Add the following two lines to the end of the ".bash_profile" file in the root of your matrix account, then logoff and log back in: <br />
+```
+alias fsub="~fardad.soleimanloo/submit"
+alias g++11="g++ -Wall -std=c++11"
+```
+After this to submit your work you can simply type "fsub WorkshopName"<br />
+And to compile you can type: "g++1  filenames"<br />
 ## Lab Attendance
 In order for your in-lab submission to be valid, you must execute the attendance submission as follows:<br />
 **~fardad.soleimanloo/submit 244/NXX/WS##/attendance**  (**XX** => lab section   **##** => Workshop number) <br />
@@ -80,6 +88,6 @@ If you know how to do this in any other editors or IDEs, please email me the res
 [How to Playlist](https://www.youtube.com/playlist?list=PLxB4x6RkylosAh1of4FnX7-g2fk0MUeyc)<br />
 
 ## Lecture Videos
-[OOP244 - 2201 Play list - TBA](https://www.youtube.com/playlist?list=PLxB4x6RkylovDjQaolbwqJAlgyN8xog7R)<br />
+[OOP244 - 2201 Play list](https://www.youtube.com/playlist?list=PLxB4x6RkylovDjQaolbwqJAlgyN8xog7R)<br />
 [BBB review video - TBA]()<br />
 ## Fardad's Schedule - TBA
