@@ -89,5 +89,6 @@ If you know how to do this in any other editors or IDEs, please email me the res
 
 ## Lecture Videos
 [OOP244 - 2201 Play list](https://www.youtube.com/playlist?list=PLxB4x6RkylovDjQaolbwqJAlgyN8xog7R)<br />
+Note: The Audio for Jan17 NAA section recording was not recroded so the video is not postd <br />
 [BBB review video - TBA]()<br />
 ## Fardad's Schedule - TBA
