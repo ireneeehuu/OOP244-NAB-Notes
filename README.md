@@ -20,6 +20,7 @@ After this to submit your work you can simply type "fsub WorkshopName"<br />
 And to compile you can type: "g++1  filenames"<br />
 ## Lab Attendance
 In order for your in-lab submission to be valid, you must execute the attendance submission as follows:<br />
+First make sure you have only **ONE** terminal client open from a **Lab computer** and then issue the following command: <br />
 **~fardad.soleimanloo/submit 244/NXX/WS##/attendance**  (**XX** => lab section   **##** => Workshop number) <br />
 If you do not execute the above command during the lab you are attending, any work submitted for that lab will get the mark ZERO
 ## Quizzes and how to reflect on them 
@@ -306,10 +307,10 @@ style="vertical-align: middle; text-align: center; background-color: white;"><br
 </tr>
 </tbody>
 </table>
-<br>
+<br />
 Note: For Office hours I will be sitting at the tables in front of the
-office door. <br>
-If I am not there, please go to the reception desk and ask
+office door. <br />
+If I am not there, please either call me at: 4164915050 x 24120 or <br /> 
+go to the reception desk and ask
 one of the
-secretaries to call me out.<br>
-<br>
+secretaries to call me out.<br />
