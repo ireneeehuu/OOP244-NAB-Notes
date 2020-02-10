@@ -21,7 +21,7 @@ And to compile you can type: "g++1  filenames"<br />
 ## Lab Attendance
 In order for your in-lab submission to be valid, you must execute the attendance submission as follows:<br />
 First make sure you have only **ONE** terminal client open from a **Lab computer** and then issue the following command: <br />
-**~fardad.soleimanloo/submit 244/NXX/WS##/attendance**  (**XX** => lab section   **##** => Workshop number) <br />
+**~profname.proflastname/submit 244/NXX/WS##/attendance**  (**XX** => lab section   **##** => Workshop number) <br />
 If you do not execute the above command during the lab you are attending, any work submitted for that lab will get the mark ZERO
 ## Quizzes and how to reflect on them 
 Your quizzes are marked as follows:<br />
@@ -182,7 +182,7 @@ style="width: 101px; text-align: center; background-color: rgb(51, 255, 51);">K3
 <td style="text-align: center; background-color: white;"><br>
 </td>
 <td
-style="width: 102px; text-align: center; background-color: rgb(51, 255, 255);">C3058</td>
+style="width: 102px; text-align: center; background-color: rgb(51, 255, 255);">A3058</td>
 <td style="text-align: center; background-color: white;"> <br>
 </td>
 <td align="center" width="108"><br>
@@ -221,7 +221,7 @@ style="width: 109px; text-align: center; background-color: white;"><br>
 <td style="background-color: white;" align="center"><br>
 </td>
 <td
-style="text-align: center; background-color: rgb(51, 255, 255);">&nbsp;C3058</td>
+style="text-align: center; background-color: rgb(51, 255, 255);">&nbsp;A3058</td>
 </tr>
 <tr>
 <td align="center" valign="middle" width="18">8</td>
